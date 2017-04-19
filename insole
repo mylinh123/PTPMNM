@@ -1,0 +1,8 @@
+clear
+echo "Nh?p N:"
+read N
+for ((i=1;<=$N;i=$(expr $i + 2)))
+do 
+echo -n "$i"
+done 
+echo -e "\n"
