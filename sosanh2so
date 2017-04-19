@@ -1,9 +1,0 @@
-#Find max value
-#file maxAB.sh
-#from:./maxAB.sh a b
-	if [$1 -gt $2]
-	then 
-	echo "So lon nhat là: $1"
-	else 
-	echo "So lon nhat là: $2"
-fi
