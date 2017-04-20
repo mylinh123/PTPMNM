@@ -1,0 +1,7 @@
+﻿echo "Tên đăng nhập :"
+echo $USER
+
+echo "Thư mục hiện hành là:"
+pwd 
+echo "Nội dung thư mục hiện hành"
+ls -a
